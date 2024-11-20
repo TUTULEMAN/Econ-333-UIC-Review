@@ -11,3 +11,9 @@ I really appreciate it if you want to contribute to this project. I can recommen
 This project is not associated with the school, UIC, in any way. I just enjoy coding and thought that there's no free UI thats similar that could help me test my knowledge for free.
 
 ## Visuals
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dash/public/SS1.png" width="200">
+    <img alt="SS1" src="./dash/public/SS1.png" width="200">
+  </picture>
+</p>
