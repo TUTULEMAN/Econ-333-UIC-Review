@@ -1,7 +1,7 @@
 <h1 align="center">ECON333 Exam 2 Revision UI @ UIC</h1>
 
 ## *How to use*
-Basically I have attatched all of the materials I used to form the UI so don't open them if you want to. The real deal is downloading <b>[econ2.html]([url](https://github.com/TUTULEMAN/Econ-333-UIC-Review/blob/main/econ2.html)</b> onto your computer and running it locally. I always hated having to lose internet connection mid-way through learning so that's the reason behind that.
+Basically I have attatched all of the materials I used to form the UI so don't open them if you want to. The real deal is downloading <b>[econ2.html]([url]https://github.com/TUTULEMAN/Econ-333-UIC-Review/blob/main/econ2.html)</b> onto your computer and running it locally. I always hated having to lose internet connection mid-way through learning so that's the reason behind that.
 
 ## *Contributing*
 I really appreciate it if you want to contribute to this project. I can recommend the GitHub issues marked as "Good First Issue" to get started. I'm still trying to build out an accurate question/answer database
