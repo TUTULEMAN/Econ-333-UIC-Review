@@ -9,6 +9,8 @@ I really appreciate it if you want to contribute to this project. I can recommen
 ## *Notice*
 This project is not associated with the school, UIC, in any way. I just enjoy coding and thought that there's no free UI thats similar that could help me test my knowledge for free.
 
+In the upcoming days, I will try to add a function so that I can link the flashcards to the source of the study guide in preparation for the final exam.
+
 ## *Visuals*
 <p align="center">
   <picture>
