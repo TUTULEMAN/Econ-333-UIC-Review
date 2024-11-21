@@ -14,11 +14,11 @@ In the upcoming days, I will try to add a function so that I can link the flashc
 ## *Visuals*
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="SS2.png" width="2000">
-    <img alt="SS2.png" src="SS2.png" width="2000">
+    <source media="(prefers-color-scheme: dark)" srcset="SS2.png" width="1000">
+    <img alt="SS2.png" src="SS2.png" width="1000">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="SS1.png" width="2000">
-    <img alt="SS1.png" src="SS1.png" width="2000">
+    <source media="(prefers-color-scheme: dark)" srcset="SS1.png" width="1000">
+    <img alt="SS1.png" src="SS1.png" width="1000">
   </picture>
 </p>
