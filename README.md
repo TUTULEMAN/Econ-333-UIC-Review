@@ -13,5 +13,6 @@ This project is not associated with the school, UIC, in any way. I just enjoy co
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="SS2.png" width="200">
+    <img alt="SS2.png" src="SS2.png" width="200">
   </picture>
 </p>
